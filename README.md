@@ -1,2 +1,2 @@
-"# SearchView" 
-"# SearchView" 
+# Circular Reveal Sample
+
